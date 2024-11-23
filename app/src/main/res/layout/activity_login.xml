@@ -17,14 +17,15 @@
             app:layout_constraintTop_toTopOf="parent"
             app:navigationIcon="@drawable/arrow_back"
             app:titleTextColor="@android:color/white" />
-
+        <!-- Текст "Вход" -->
         <TextView
             android:id="@+id/login_text"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
-            android:text="@string/enter_login"
+            android:text="@string/enter_login_im"
             android:textSize="24sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/toolbar" />

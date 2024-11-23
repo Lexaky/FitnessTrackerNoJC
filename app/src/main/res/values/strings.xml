@@ -13,4 +13,8 @@
     <string name="best_tracker">Пожалуй, лучший фитнес трекер в ДВФУ</string>
     <string name="created_by_strudents">Созданный студентами</string>
     <string name="enter_login">Войти</string>
+    <string name="enter_login_im">Вход</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="other">Другое</string>
 </resources>
